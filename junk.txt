@@ -1,0 +1,28 @@
+*.nfo
+*.torrent
+*.html
+*.lnk
+*.url
+#[CourseVania.com]###.txt
+( Attention le site officiel est OxTorrent.cc ).txt
+.iTDMusic.in.txt
+[ Www.iExTV.Com ].txt
+[11sht.com]-最新地址获取.txt
+[Baca dong cuk].txt
+[Bookflare.net] - Visit for more books.txt
+[FreeCourseSite.com].txt
+[GetComics]Downloaded from GetComics.INFO.txt
+[SaleWebDesign.Com].txt
+[TGx]Downloaded from torrentgalaxy.org .txt
+[TGx]Downloaded from torrentgalaxy.to .txt
+0A DDR Release !!!.txt
+0Torrent downloaded from Desitorrents.tv.txt
+HDETG.jpg
+PSArips.com.txt
+RARBG.txt
+RARBG_DO_NOT_MIRROR.exe
+Torrent Downloaded From ExtraTorrent.txt
+Torrent-Downloaded-from-ExtraTorrent.cc.txt
+WWW.YTS.AG.jpg
+www.YTS.LT.jpg
+www.YTS.MX.jpg
