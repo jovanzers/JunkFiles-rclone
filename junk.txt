@@ -3,38 +3,40 @@
 *.lnk
 *.nfo
 *.torrent
+*.Torrent
+*.URL
 *.url
 *.YTS.*.jpg
 *11sht.com*.txt
+*AhaShare*.txt
+*Baca dong cuk*.txt
 *CourseVania.com*.txt
 *DDR Release*.txt
-*Download From*.txt
-*Download Torrent*.txt
-*Downloaded from*.txt
-*downloaded from*.txt
+*Encoded*.txt
 *FOXM.TO*.jpg
-*FreeCourseSite.com*.txt
-*FreeCourseWeb.com*.txt
+*FreeCourse*.txt
 *freepaidbooks.online*.txt
+*HEVC*.txt
 *How you can help*.txt
 *howtofree.org*.txt
+*iExTV.Com*.txt
 *iTDMusic.in.txt
 *Overget.Com*.txt
-*OxTorrent.cc*.txt
+*ownlaod*.txt
+*ownload*.txt
 *SaleWebDesign.Com*.png
 *SaleWebDesign.Com*.txt
 *Sonicbit.net*.jpg
-*TamilBlasters*.jpg
-*TamilMV*.txt
+*Tamil*.jpg
+*Tamil*.txt
 *TeamOS-HKRG.com.jpg
 *thepiratefilmes.com.png
-*TorrentCounter.to*.jpg
-*Torrenting.com*.txt
+*Torrent*.jpg
+*torrent*.txt
+*Torrent*.txt
 *Visit*.txt
-*Www.iExTV.Com*.txt
-*YIFY-TORRENTS.COM.jpg
+*YIFY*.jpg
 *토렌트릴.com*.txt
-[Baca dong cuk].txt
 Atenção.txt
 BLUDV.COM.png
 BLUDV.mp4
