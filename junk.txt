@@ -1,28 +1,45 @@
-*.nfo
-*.torrent
+*.htm
 *.html
 *.lnk
+*.nfo
+*.torrent
 *.url
-#[CourseVania.com]###.txt
-( Attention le site officiel est OxTorrent.cc ).txt
-.iTDMusic.in.txt
-[ Www.iExTV.Com ].txt
-[11sht.com]-最新地址获取.txt
+*.YTS.*.jpg
+*11sht.com*.txt
+*CourseVania.com*.txt
+*DDR Release*.txt
+*Download From*.txt
+*Download Torrent*.txt
+*Downloaded from*.txt
+*downloaded from*.txt
+*FOXM.TO*.jpg
+*FreeCourseSite.com*.txt
+*FreeCourseWeb.com*.txt
+*freepaidbooks.online*.txt
+*How you can help*.txt
+*howtofree.org*.txt
+*iTDMusic.in.txt
+*Overget.Com*.txt
+*OxTorrent.cc*.txt
+*SaleWebDesign.Com*.png
+*SaleWebDesign.Com*.txt
+*Sonicbit.net*.jpg
+*TamilBlasters*.jpg
+*TamilMV*.txt
+*TeamOS-HKRG.com.jpg
+*thepiratefilmes.com.png
+*TorrentCounter.to*.jpg
+*Torrenting.com*.txt
+*Visit*.txt
+*Www.iExTV.Com*.txt
+*YIFY-TORRENTS.COM.jpg
+*토렌트릴.com*.txt
 [Baca dong cuk].txt
-[Bookflare.net] - Visit for more books.txt
-[FreeCourseSite.com].txt
-[GetComics]Downloaded from GetComics.INFO.txt
-[SaleWebDesign.Com].txt
-[TGx]Downloaded from torrentgalaxy.org .txt
-[TGx]Downloaded from torrentgalaxy.to .txt
-0A DDR Release !!!.txt
-0Torrent downloaded from Desitorrents.tv.txt
+Atenção.txt
+BLUDV.COM.png
+BLUDV.mp4
 HDETG.jpg
+PeruGuy_Official.png
 PSArips.com.txt
 RARBG.txt
 RARBG_DO_NOT_MIRROR.exe
-Torrent Downloaded From ExtraTorrent.txt
-Torrent-Downloaded-from-ExtraTorrent.cc.txt
-WWW.YTS.AG.jpg
-www.YTS.LT.jpg
-www.YTS.MX.jpg
