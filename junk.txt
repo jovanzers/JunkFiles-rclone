@@ -24,6 +24,9 @@
 *Overget.Com*.txt
 *ownlaod*.txt
 *ownload*.txt
+*PSA*.txt
+*RARBG*.exe
+*RARBG*.txt
 *SaleWebDesign.Com*.png
 *SaleWebDesign.Com*.txt
 *Sonicbit.net*.jpg
@@ -42,6 +45,3 @@ BLUDV.COM.png
 BLUDV.mp4
 HDETG.jpg
 PeruGuy_Official.png
-PSArips.com.txt
-RARBG.txt
-RARBG_DO_NOT_MIRROR.exe
