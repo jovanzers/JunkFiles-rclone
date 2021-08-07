@@ -1,6 +1,8 @@
+*.HTM
 *.htm
 *.html
 *.lnk
+*.NFO
 *.nfo
 *.torrent
 *.Torrent
