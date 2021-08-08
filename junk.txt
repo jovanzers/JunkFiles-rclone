@@ -41,6 +41,7 @@
 *Torrent*.txt
 *Visit*.txt
 *YIFY*.jpg
+*YIFY*.txt
 *토렌트릴.com*.txt
 Atenção.txt
 BLUDV.COM.png
