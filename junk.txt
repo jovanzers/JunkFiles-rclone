@@ -15,6 +15,7 @@
 *encoded*.txt
 *FOXM.TO*.jpg
 *free*.txt
+*getxfer*.mega
 *HEVC*.txt
 *How you can help*.txt
 *iTDMusic.in.txt
