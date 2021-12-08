@@ -1,6 +1,8 @@
 *.com*.txt
+*.description
 *.htm
 *.html
+*.live_chat.json
 *.lnk
 *.net*.txt
 *.nfo
