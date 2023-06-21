@@ -1,5 +1,5 @@
 * bule*
-* Complete*.txt
+* complete*.txt
 *.ass
 *.com*.txt
 *.cue
@@ -11,7 +11,7 @@
 *.md
 *.net*.txt
 *.nfo
-*.Screen000*
+*.screen000*
 *.ske
 *.smi
 *.srt
